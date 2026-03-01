@@ -8,7 +8,7 @@
 0,sansText,you know what imma                make the attack long!,,,,,,,,,
 1,sansText,and guess what you        cant do anything          about it Memes And LOLZ.....,,,,,,,,,
 0,SansText,More Cringe Dialoge,,,,,,,,,
-0.5,SansText,Wait a minute your not useing act, Right?,,,,,,,,,
+0.5,SansText,Wait a minute your not useing act Right?,,,,,
 0.5,SansText,welll,,
 0.828,GasterBlaster,2,240,0,240,340,90,0.207,0.414
 0.828,ActXY,666,666						
@@ -876,6 +876,7 @@
 0,SansAnimation,Idle,,,,,,,,,
 0,DamagePlayer,-200,,,
 3,EndAttack,,
+
 
 
 
