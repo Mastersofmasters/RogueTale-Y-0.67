@@ -1,4 +1,7 @@
-,,,,,,,,,,,
+0,CombatZoneResizeInstant,280,210,370,290,,,
+0,HeartTeleport,325,250,,,,
+0,CombatZoneResizeInstant,280,210,370,290,,,
+0,HeartTeleport,325,250,,,,,,,,
 0,SetMaxHp,121,,
 0,Sound,Playerheal,,
 ,,,,,,,,,,,
@@ -765,6 +768,7 @@
 0,SansAnimation,Idle,,,,,,,,,
 0,DamagePlayer,-200,,,
 3,EndAttack,,
+
 
 
 
